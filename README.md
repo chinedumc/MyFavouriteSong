@@ -1,2 +1,2 @@
-# MyFavouriteSong
-Printing out the attributes of my favourite song
+# My assignments and projects from python-is-easy
+Assignments and projects would be denoted appropriately
