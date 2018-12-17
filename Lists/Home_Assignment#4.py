@@ -5,7 +5,6 @@
 myUniqueList = []
 
 
-
 # A function to check if the Input is a member of myUniqueList
 def AddToList(Input):
     if (Input not in myUniqueList):  #If the Input exists in myUniqueList, print False and do not append the Input variable
