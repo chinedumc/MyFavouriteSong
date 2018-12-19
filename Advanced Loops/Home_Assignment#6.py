@@ -21,4 +21,5 @@ for row in range(1,6): # Defining our pattern to have 5 rows
                 print("|", end = "")
             
     else:
-        print("-----")        
+        print("-----") 
+print("True")
